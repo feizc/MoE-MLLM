@@ -1,2 +1,2 @@
-# MoE-MLLM
-Mixture-of-Experts for Multimodal Large Language Models
+## MoE-MLLM: Mixture-of-Experts for Multimodal Large Language Models
+
